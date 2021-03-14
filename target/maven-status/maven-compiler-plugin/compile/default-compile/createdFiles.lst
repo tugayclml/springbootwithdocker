@@ -1,0 +1,11 @@
+com/example/homework/repository/ReviewRepository.class
+com/example/homework/controller/ReviewController.class
+com/example/homework/model/Review.class
+com/example/homework/model/Article.class
+com/example/homework/customexception/ResourceNotFoundException.class
+com/example/homework/security/SecurityConfiguration.class
+com/example/homework/model/QReview.class
+com/example/homework/model/QArticle.class
+com/example/homework/HomeworkApplication.class
+com/example/homework/controller/ArticleController.class
+com/example/homework/repository/ArticleRepository.class
